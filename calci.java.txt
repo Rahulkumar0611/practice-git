@@ -1,0 +1,4 @@
+interface calci{
+
+public static intsum(int n1, int n2);
+}
